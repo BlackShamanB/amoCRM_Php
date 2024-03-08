@@ -1,7 +1,7 @@
 <?php
-$subdomain     = ''; // поддомен AmoCRM
-$client_secret = ''; // Секретный ключ
-$client_id     = ''; // ID интеграции
-$code          = ''; // Код авторизации
+$subdomain     = 'https://vaiv666.amocrm.ru/'; // поддомен AmoCRM
+$client_secret = 'Wg0tl739tMIsOnStaSPWBgdjOiN5UBPoUNJScNZfhrWU90fP8V3jDSckVirYfMzM'; // Секретный ключ
+$client_id     = '2c3e3e01-098b-47c9-b334-c86de6f240b0'; // ID интеграции
+$code          = 'def502001ad81177e3906a9284c6587e1f7d14a04607bb4052c9d60ae5caca75606c3f493c8cbd444c32dc4ef2814da5ec06a72f2e5749f3000ced1273038607d8dec0185daa2e76c49a74b303223d629cf68bd712fec30b631a03395cafe3cd574fe811bb85b7feb135f4dfbf5224f856340f7419d55609627a9ea34a135f232186717fe13518acefb8cbd9121bc77cf128c2997940817279b018840e6ba485d694b1535e6ff24964d3a38c455f9bfb3a68f00e070242a6ba94d318defa6fef83f8428087847150d43d53affd0b0fa4a0c2406f0427db142860839cd8a160f063060d151e159b02fc93cebb21d3e524a72fb8b91637343d916bfc7bde092c95eac59d77f4327375a28e787759891e5853bb6db30ab4408f67d645d970b50c338194ae3cd1c9ae3868211b07a2731fa8d4de210838dd9bde7be836694950ea8879fdc14fe6ad91be715b38d86a20088ff12022ac21dad5ea94fbc5fec1acaf7e5545731e2b765f87f6d9d9dea2af03cd52d3770e615436506d38b574c6f261a4c862b05becd0d0cfc27a6bca5df519aa6a385ceca14a4c514904b8ccd14945bd092d9498f2da889ee1d94ff24bded213f4f31cec2c1bb0ddaf86b4cb6cc0d3b9d75461f5e35e07c369e9625a9453f287a51f16591cbd3bc7b30eca73c3eab8c652a88ec8f324657117a9c9d59b3c03f00c5ec8e8db0fad4bcf036fa0462df7d8883945bec0a33e8d6eb6d1bf4566ec39ba0b28c8'; // Код авторизации
 $token_file    = 'tokens.txt';
-$redirect_uri  = 'https://site.com/amo/amo.php';
+$redirect_uri  = 'https://amo-crm-cac806mzn-blackshamans-projects.vercel.app/amo.php';
